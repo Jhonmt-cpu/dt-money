@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/Jhonmt-cpu/dt-money">
-    <img src="../assets/pokedexCape.png?raw=true"/>
+    <img src="../assets/dtMoneyCape.png?raw=true"/>
   </a>
 </p>
 
